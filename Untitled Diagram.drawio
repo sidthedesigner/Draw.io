@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T19:21:42.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Y39q_61AZVl3pO56-LO3" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T19:26:06.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DO-5llPo-_7yFNDh7Ny3" version="24.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="529" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -313,6 +313,18 @@
             <mxPoint x="1310" y="600" as="sourcePoint" />
             <mxPoint x="1360" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-98" value="User" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/9187/9187604.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020.7" y="659.35" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_KfjAwDsVdILywckYRa1-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000.7" y="669.35" as="sourcePoint" />
+            <mxPoint x="1041.0000000000002" y="585.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-100" value="Selects&amp;nbsp;&lt;div&gt;Required Fields&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="977" y="620" width="54" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
