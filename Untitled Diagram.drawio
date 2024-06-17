@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T18:24:33.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Vw19bbe3kHFwXOdk-zR7" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T18:29:18.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PEnfirB3tYta0Lj8tdI6" version="24.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1083" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -139,20 +139,29 @@
         <mxCell id="_KfjAwDsVdILywckYRa1-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="460" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_KfjAwDsVdILywckYRa1-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_KfjAwDsVdILywckYRa1-10">
+        <mxCell id="_KfjAwDsVdILywckYRa1-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_KfjAwDsVdILywckYRa1-10" target="_KfjAwDsVdILywckYRa1-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="320" as="sourcePoint" />
-            <mxPoint x="920" y="270" as="targetPoint" />
+            <mxPoint x="890" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_KfjAwDsVdILywckYRa1-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="334.57" as="sourcePoint" />
-            <mxPoint x="920" y="334.57" as="targetPoint" />
+            <mxPoint x="890" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_KfjAwDsVdILywckYRa1-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="215" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-49" value="View IDP Services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="315" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="929.7" y="249.42" width="40.6" height="41.15" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-51" value="View IDP Services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1039" y="249.99" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
