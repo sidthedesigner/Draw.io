@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T12:09:02.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kY-AD5aDoZnAzSAT1Azc" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T12:19:59.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yxbPXNd2nPpV16bfQCv3" version="24.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1780" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -324,8 +324,9 @@
             <mxPoint x="1491" y="338" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1250" y="410" />
-              <mxPoint x="1250" y="520" />
-              <mxPoint x="1490" y="520" />
+              <mxPoint x="1250" y="460" />
+              <mxPoint x="1370" y="460" />
+              <mxPoint x="1491" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -337,6 +338,27 @@
               <mxPoint x="1574" y="165" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-129" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="100" width="460" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="100" width="620" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-131" value="&lt;span&gt;Classification&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontStyle=1;fontColor=#0505FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-132" value="&lt;span&gt;Extraction&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontStyle=1;fontColor=#0505FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="70" width="1110" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-134" value="&lt;b&gt;&lt;font color=&quot;#2f05ff&quot;&gt;Generative AI Services&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="70" width="1110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KfjAwDsVdILywckYRa1-135" value="Generates Field List&amp;nbsp;&lt;div&gt;Per&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Document Type&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp; Category&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="551" width="130" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
