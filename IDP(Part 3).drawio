@@ -96,10 +96,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JH7_bKmLKvwizB0ivAQK-36" value="&lt;b&gt;Batch Schedule&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="470" y="400.02" width="174.26" height="27.97" as="geometry" />
+          <mxGeometry x="640" y="219.99999999999997" width="174.26" height="27.97" as="geometry" />
         </mxCell>
         <mxCell id="JH7_bKmLKvwizB0ivAQK-37" value="&lt;b&gt;Batch Processing Pipeline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="210" height="27.97" as="geometry" />
+          <mxGeometry x="490" y="400.02" width="210" height="27.97" as="geometry" />
+        </mxCell>
+        <mxCell id="JH7_bKmLKvwizB0ivAQK-39" value="&lt;b&gt;Document Ingestion&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="157.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JH7_bKmLKvwizB0ivAQK-40" value="&lt;b&gt;Document Queue&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="582.5699999999999" y="140" width="157.88" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
