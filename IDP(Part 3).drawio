@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JH7_bKmLKvwizB0ivAQK-100" value="&lt;b&gt;Feedback Loop&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="400.02" width="110" height="27.97" as="geometry" />
+          <mxGeometry x="1648.76" y="400.01" width="110" height="27.97" as="geometry" />
         </mxCell>
         <mxCell id="JH7_bKmLKvwizB0ivAQK-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -322,7 +322,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JH7_bKmLKvwizB0ivAQK-102" value="&lt;b&gt;Raw Text Extraction&lt;/b&gt;&lt;div&gt;&lt;b&gt;Doc/Text Classification&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NER&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PII Identification &amp;amp; Redaction&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Custom Replacement)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Masked PII PDF Regeneration&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1312.46" y="167.52999999999997" width="160" height="127.97" as="geometry" />
+          <mxGeometry x="1340" y="167.53999999999996" width="160" height="127.97" as="geometry" />
         </mxCell>
         <mxCell id="JH7_bKmLKvwizB0ivAQK-103" value="&lt;b&gt;Document Processing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1028.6299999999999" y="101" width="157.88" height="30" as="geometry" />
