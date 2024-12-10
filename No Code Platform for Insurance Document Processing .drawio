@@ -22,7 +22,7 @@
         <mxCell id="vBAnSiAffKaRmVITMoqs-21" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Document Volume&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Document Size&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Total Requests in Peak Hours&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Context Csv&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2014" y="415" width="257.7" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="vBAnSiAffKaRmVITMoqs-22" value="2. Select Document Type" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#330000;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="vBAnSiAffKaRmVITMoqs-22" value="2. Document Type Selection&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#330000;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2300.26" y="256.77" width="204.85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBAnSiAffKaRmVITMoqs-23" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Select Document Types&lt;/li&gt;&lt;li&gt;Upload Samples for Each&amp;nbsp; Category&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
@@ -53,7 +53,7 @@
           <mxGeometry x="2800" y="306.2" width="94.43" height="94.8" as="geometry" />
         </mxCell>
         <mxCell id="vBAnSiAffKaRmVITMoqs-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1986" y="129" width="1210" height="410" as="geometry" />
+          <mxGeometry x="1985" y="134" width="1210" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
