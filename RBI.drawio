@@ -106,8 +106,8 @@
             <mxPoint x="590" y="892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0PMzmDsmBYJnkLfqHaI-35" value="Sends the card number and address from the customer&#39;s email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="240" height="50" as="geometry" />
+        <mxCell id="k0PMzmDsmBYJnkLfqHaI-35" value="Sends the email content along with attachments from the customer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k0PMzmDsmBYJnkLfqHaI-36" value="Receives the intent, extracted details and completeness, highlighting any missing fields if applicable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="240" height="90" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="990" y="290" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k0PMzmDsmBYJnkLfqHaI-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-150" width="1520" height="1440" as="geometry" />
+          <mxGeometry x="-319" y="-157" width="1520" height="1440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
