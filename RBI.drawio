@@ -62,10 +62,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TzNdqiphMFZA8WQtwDwL-12" value="Sends Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="432" width="58.5" height="22" as="geometry" />
+          <mxGeometry x="20" y="434" width="58.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="TzNdqiphMFZA8WQtwDwL-13" value="Receives Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="16.380000000000003" y="434" width="60" height="22" as="geometry" />
+          <mxGeometry x="-110" y="434" width="60" height="22" as="geometry" />
         </mxCell>
         <mxCell id="TzNdqiphMFZA8WQtwDwL-14" value="Invoke" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="40" y="490" width="70" height="22" as="geometry" />
